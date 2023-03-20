@@ -13,7 +13,7 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return CommonWebView(
-      url: 'https://sihenkrypt.netlify.app',
+      url: 'https://tangerine-tarsier-1c85d6.netlify.app',
       title: '',
     );
   }

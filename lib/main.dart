@@ -4,7 +4,6 @@ import 'package:enkrypt/pages/splash_screen.dart';
 void main() {
   runApp(MyApp());
 }
-
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
